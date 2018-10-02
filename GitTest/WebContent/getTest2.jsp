@@ -9,6 +9,6 @@
 <body>
 
     
-    Github
+    Git hub
 </body>
 </html>
